@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>67830585348-l2c85588suvaf905bb62600cp52b8l8e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.67830585348-l2c85588suvaf905bb62600cp52b8l8e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBt1QqdHQ9h2iUHq0MTKKjaqdFhtkPplAI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>67830585348</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ukrainianrestoration.alms</string>
+	<key>PROJECT_ID</key>
+	<string>alms-dc66c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>alms-dc66c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:67830585348:ios:a20bc246e50e3d87b9fd51</string>
+	<key>DATABASE_URL</key>
+	<string>https://alms-dc66c.firebaseio.com</string>
+</dict>
+</plist>
